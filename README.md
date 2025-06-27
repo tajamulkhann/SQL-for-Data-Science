@@ -1,7 +1,7 @@
 # SQL for Data Science
 This repository is a comprehensive resource for learning SQL for Data Science — featuring practical projects, real-world queries, curated books, cheatsheets, and essential learning materials to help you build strong, job-ready SQL skills.
 
-## 📘 Get My Free eBook  
+## Get My Free eBook  
 **Download here 👉 [https://topmate.io/tajamulkhan/1051745](https://topmate.io/tajamulkhan/1051745)**  
 
 [<img src="https://github.com/user-attachments/assets/ff5075d4-31a9-4fc0-a8b8-76b74926cbb8" width="600"/>](https://topmate.io/tajamulkhan/1051745)
