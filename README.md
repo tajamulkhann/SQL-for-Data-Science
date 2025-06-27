@@ -6,7 +6,6 @@ This repository is a comprehensive resource for learning SQL for Data Science â€
 
 [<img src="https://github.com/user-attachments/assets/ff5075d4-31a9-4fc0-a8b8-76b74926cbb8" width="600"/>](https://topmate.io/tajamulkhan/1051745)
 
-
 ## Support my Work
 If my work has helped you, Iâ€™d truly appreciate your support!
 
